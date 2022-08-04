@@ -3,13 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/wm/Desktop/Projetos/jokerapp/app/src/main/res/layout/activity_main.xml" value="0.196875" />
-        <entry key="..\:/Users/wm/Desktop/Projetos/jokerapp/app/src/main/res/layout/app_nav_main.xml" value="0.17272338606241983" />
-        <entry key="..\:/Users/wm/Desktop/Projetos/jokerapp/app/src/main/res/layout/content_main.xml" value="0.17272338606241983" />
+        <entry key="..\:/Users/wm/Desktop/Projetos/jokerapp/app/src/main/res/layout/activity_main.xml" value="0.11" />
+        <entry key="..\:/Users/wm/Desktop/Projetos/jokerapp/app/src/main/res/layout/app_nav_main.xml" value="0.11" />
+        <entry key="..\:/Users/wm/Desktop/Projetos/jokerapp/app/src/main/res/layout/content_main.xml" value="0.13" />
         <entry key="..\:/Users/wm/Desktop/Projetos/jokerapp/app/src/main/res/layout/fragment_about.xml" value="0.17272338606241983" />
         <entry key="..\:/Users/wm/Desktop/Projetos/jokerapp/app/src/main/res/layout/fragment_home.xml" value="0.17272338606241983" />
         <entry key="..\:/Users/wm/Desktop/Projetos/jokerapp/app/src/main/res/layout/fragment_joker_day.xml" value="0.33" />
         <entry key="..\:/Users/wm/Desktop/Projetos/jokerapp/app/src/main/res/layout/header_layout.xml" value="0.33" />
+        <entry key="..\:/Users/wm/Desktop/Projetos/jokerapp/app/src/main/res/layout/item_category.xml" value="0.25" />
         <entry key="..\:/Users/wm/Desktop/Projetos/jokerapp/app/src/main/res/menu/menu.xml" value="0.25" />
       </map>
     </option>

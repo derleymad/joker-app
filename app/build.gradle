@@ -51,6 +51,9 @@ dependencies {
     implementation("androidx.navigation:navigation-ui-ktx:$nav_version")
 
     //SPLASHSCREEN
-    implementation 'androidx.core:core-splashscreen:1.0.0-beta02'
+    implementation 'androidx.core:core-splashscreen:1.0.0'
+
+    //groupie
+    implementation "com.github.lisawray.groupie:groupie:2.9.0"
 
 }
